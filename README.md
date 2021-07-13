@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Writing about every day coding here:
+
+https://t.me/berguscode
+
 <!--
 **bergusman/bergusman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
