@@ -10,6 +10,10 @@ Some gists:
 - [Push Settings](https://gist.github.com/bergusman/aee22cbcd613f612d4efe348727b1973)
 - [UIViewController's Hierarchy Monitor](https://gist.github.com/bergusman/d41a3355b61e3c4b579d888503b84afe)
 
+Sample repos:
+
+- [Wok Looper](https://github.com/bergusman/wok-looper-ios)
+
 <!--
 **bergusman/bergusman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
